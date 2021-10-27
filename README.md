@@ -2,10 +2,10 @@
 
 I'm Lewis, a 1st Year Computer Science student at the University of Plymouth.
 
-## 🔭 I’m currently working on / my projects are: ... :arrow_down:
+## 🔭 I’m currently working on:
 
-* Saturn - `in progress`.
-* University Projects - `in progress`.
+* Saturn - A new Content Management System for educational websites. `in progress`
+* University Projects - Assembly, C#, C, etc `in progress`
 
 ## 💻 Frequently Used Technologies:
 
