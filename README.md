@@ -18,11 +18,10 @@ I'm Lewis, a 1st Year Computer Science student at the University of Plymouth.
 
 ## 🌱 I'm currently learning:
 
-* C#
-* C
-* Assembly Language
+* C Family (C, C++, C#)
+* Assembly Language (MASM)
 
-## ⚡GitHub Stats
+## ⚡My GitHub Statistics
 <!-- Stats -->
 <!-- Credit to https://github.com/anuraghazra/github-readme-stats -->
 <div>
