@@ -21,6 +21,8 @@ I'm Lewis, a 2nd Year Computer Science student at the University of Plymouth.
 
 * C Family (C, C++, C#)
 * Assembly Language (MASM)
+* JavaScript
+* Java
 
 ## ⚡My GitHub Statistics
 <!-- Stats -->
