@@ -8,13 +8,17 @@ I'm Lewis, a 2nd Year Computer Science student at the University of Plymouth.
 * Boa - A PHP function framework. (PHP) `in progress`
 * Various University of Plymouth Coursework and Projects (Assembly, C, C++, C#) `in progress`
 
-## 💻 Frequently Used Technologies:
+## 💻 Technologies I use:
 
+IDEs
 * Visual Studio 2019
-* PHPStorm
+* JetBrains IDEs (IntelliJ, PHPStorm)
+Frameworks
 * TailwindCSS
 * Alpine JS
-* HTML, CSS, JavaScript
+Languages:
+* PHP
+* JavaScript
 * SQL
 
 ## 🌱 I'm currently learning:
@@ -23,6 +27,8 @@ I'm Lewis, a 2nd Year Computer Science student at the University of Plymouth.
 * Assembly Language (MASM)
 * JavaScript
 * Java
+* Laravel
+* React
 
 ## ⚡My GitHub Statistics
 <!-- Stats -->
