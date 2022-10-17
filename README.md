@@ -13,9 +13,11 @@ I'm Lewis, a 2nd Year Computer Science student at the University of Plymouth.
 IDEs
 * Visual Studio 2019
 * JetBrains IDEs (IntelliJ, PHPStorm)
+
 Frameworks
 * TailwindCSS
 * Alpine JS
+
 Languages:
 * PHP
 * JavaScript
