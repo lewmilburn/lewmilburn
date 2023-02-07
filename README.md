@@ -35,12 +35,10 @@ Alpine JS
 ## 🌱 I'm currently learning:
 
 * C Family (C, C++, C#)
-* Assembly Language (MASM)
 * JavaScript
 * Java
 * Laravel
-* React
-* Svelte
+* Python
 
 ## ⚡My GitHub Statistics
 <!-- Stats -->
