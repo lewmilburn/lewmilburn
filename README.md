@@ -5,8 +5,7 @@ I'm Lewis, a 2nd Year Computer Science student at the University of Plymouth.
 ## 🔭 I’m currently working on:
 
 * Saturn - A new Content Management System for educational websites. (PHP, AlpineJS, TailwindCSS) `in progress`
-* Boa - A collection of PHP functions that I often use. (PHP) `in progress`
-* Various University of Plymouth Coursework and Projects (Assembly, C, C++, C#) `in progress`
+* Various University of Plymouth Coursework and Projects (Python, C, C++, C#) `in progress`
 
 ## 💻 Technologies I use:
 
