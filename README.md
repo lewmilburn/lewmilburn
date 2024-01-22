@@ -33,11 +33,8 @@ Alpine JS
 
 ## 🌱 I'm currently learning:
 
-* C Family (C, C++, C#)
-* JavaScript
+* Node.JS
 * Java
-* Laravel
-* Python
 
 ## ⚡My GitHub Statistics
 <!-- Stats -->
