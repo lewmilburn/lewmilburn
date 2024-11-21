@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Lewis, a 2nd Year Computer Science student at the University of Plymouth.
+I'm Lewis, a MSc Cyber Security student at the University of Plymouth.
 
 ## 🔭 I’m currently working on:
 
