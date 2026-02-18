@@ -1,7 +1,5 @@
 # Hi there 👋
 
-I'm Lewis, a Junior Penetration Tester at KPMG, and graduate of the University of Plymouth.
-
 ## 🔭 I’m currently working on:
 
 * Saturn - A new Content Management System for educational websites. (PHP, AlpineJS, TailwindCSS) `in progress`
